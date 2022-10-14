@@ -137,6 +137,7 @@ main{
     padding: 1.8rem 2rem;
     margin-bottom: 1.875rem;
     position: relative;
+    background-color: hsl(0, 0%, 98%);
 }
 
 .cyan-top{
